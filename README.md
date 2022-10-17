@@ -3,6 +3,8 @@
 
 Hey! I'm Ilya Lazuk, a student currently studying in <a href='https://www.bsuir.by/en'>BSUIR</a>, Belarus. My major is Computer Science (Faculty of Computer Systems and Networks).
 
+[My CV](https://github.com/LaRtik/LaRtik/blob/main/CV.pdf)
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
